@@ -1,4 +1,4 @@
-# Gentelella Rails Base
+# Gentelella Rails
 
 Unnecessary packages have been removed.
 

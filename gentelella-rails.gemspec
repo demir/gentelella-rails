@@ -3,7 +3,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require "gentelella/version"
 
 Gem::Specification.new do |s|
-  s.name        = "gentelella-rails-base"
+  s.name        = "gentelella-rails"
   s.version     = Gentelella::VERSION
   s.authors     = ["Michael Lang"]
   s.email       = ["mwlang@cybrains.net"]
