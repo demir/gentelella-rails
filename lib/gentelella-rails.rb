@@ -1,16 +1,6 @@
 require 'bootstrap-sass'
-require 'font-awesome-sass'
 require 'jquery-rails'
-require 'nprogress-rails'
-require 'icheck-rails'
-require 'momentjs-rails'
-require 'bootstrap-daterangepicker-rails'
 require 'fastclick-rails'
-require 'chart-js-rails'
-require 'flot-rails'
-require 'switchery-rails'
-require 'select2-rails'
-require 'parsley-rails'
 
 module Gentelella
   class << self

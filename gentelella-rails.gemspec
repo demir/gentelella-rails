@@ -19,18 +19,8 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency 'coffee-rails'
 
   s.add_runtime_dependency "bootstrap-sass", "~> 3.3.6"
-  s.add_runtime_dependency "font-awesome-sass", "~> 4.7.0"
   s.add_runtime_dependency "jquery-rails"
-  s.add_runtime_dependency "icheck-rails"
-  s.add_runtime_dependency "nprogress-rails"
-  s.add_runtime_dependency "momentjs-rails"
-  s.add_runtime_dependency "bootstrap-daterangepicker-rails", ">= 0.1.7"
   s.add_runtime_dependency "fastclick-rails"
-  s.add_runtime_dependency "chart-js-rails"
-  s.add_runtime_dependency "flot-rails"
-  s.add_runtime_dependency "switchery-rails"
-  s.add_runtime_dependency "select2-rails"
-  s.add_runtime_dependency "parsley-rails"
 
   s.add_development_dependency "sqlite3"
 end
