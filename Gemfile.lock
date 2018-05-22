@@ -4,7 +4,6 @@ PATH
     gentelella-rails (0.2.11)
       bootstrap-sass (~> 3.3.6)
       coffee-rails
-      fastclick-rails
       jquery-rails
       railties (>= 4.0)
       sass-rails (>= 5.0)
@@ -30,7 +29,7 @@ GEM
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
       tzinfo (~> 1.1)
-    autoprefixer-rails (8.4.1)
+    autoprefixer-rails (8.5.0)
       execjs
     bootstrap-sass (3.3.7)
       autoprefixer-rails (>= 5.2.1)
@@ -47,7 +46,6 @@ GEM
     crass (1.0.4)
     erubi (1.7.1)
     execjs (2.7.0)
-    fastclick-rails (1.0.1)
     ffi (1.9.23)
     i18n (1.0.1)
       concurrent-ruby (~> 1.0)

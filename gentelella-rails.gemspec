@@ -20,7 +20,6 @@ Gem::Specification.new do |s|
 
   s.add_runtime_dependency "bootstrap-sass", "~> 3.3.6"
   s.add_runtime_dependency "jquery-rails"
-  s.add_runtime_dependency "fastclick-rails"
 
   s.add_development_dependency "sqlite3"
 end

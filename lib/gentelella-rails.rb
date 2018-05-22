@@ -1,6 +1,5 @@
 require 'bootstrap-sass'
 require 'jquery-rails'
-require 'fastclick-rails'
 
 module Gentelella
   class << self

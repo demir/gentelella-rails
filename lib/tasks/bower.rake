@@ -15,6 +15,7 @@ namespace :bower do
   desc "vendors javascripts and stylesheets for rails assets pipeline"
   task :vendor do
     cp_asset "bower_components/gentelella/vendors/autosize/dist/autosize.js"
+    cp_asset "bower_components/gentelella/vendors/fastclick/dist/fastclick.js"
   end
 end
 
